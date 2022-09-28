@@ -73,11 +73,11 @@ El mismo cuenta con un sector de administración en el cual el dueño puede gest
 <li>Facilidad de pagos - pagos con tarjeta de credito mediante Stripe</li>
 </ul>
 
-<img src='https://i.postimg.cc/T1qpBsDJ/SEHOS.png'>
+<img src='./assets/SEHOS.png'>
 
 <h2> Tambien le compartimos unas imagenes del proyecto</h2>
 
-<img src='https://i.postimg.cc/MpsjWgrs/SEHOS-1.jpg' height=150px> <img src='https://i.postimg.cc/jqzwWDFn/sehos-2.png' height=150px> <img src='https://i.postimg.cc/gksxDfdY/sehos-3.png' height=150px> <img src='https://i.postimg.cc/xTnkL9wx/sehos-4.png' height=150px>
+<img src='./assets/SEHOS-1.jpg' height=150px> <img src='./assets/sehos-2.png' height=150px> <img src='./assets/sehos-3.png' height=150px> <img src='./assets/sehos-4.png' height=150px>
 
 <hr />
 <a href='https://github.com/joelorzet/sehos-client'> 📂 Ver repositorio</a> <a href='https://sehos.netlify.app/home' target='_blank' rel="noreferrer noopener"> 🌐 Ver proyecto </a>
