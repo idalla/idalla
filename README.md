@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hola 👋, soy Ignacio Dalla Rizza</h1>
 <h3 align="center">Full Stack Web Developer de Uruguay</h3>
 
