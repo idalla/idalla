@@ -73,7 +73,7 @@ El mismo cuenta con un sector de administración en el cual el dueño puede gest
 <li>Facilidad de pagos - pagos con tarjeta de credito mediante Stripe</li>
 </ul>
 
-<img src='[./assets/SEHOS.png](https://i.postimg.cc/T1qpBsDJ/SEHOS.png)'/>
+<img src='https://i.postimg.cc/T1qpBsDJ/SEHOS.png'/>
 
 <h2> Tambien le compartimos unas imagenes del proyecto</h2>
 
