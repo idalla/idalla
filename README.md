@@ -4,11 +4,6 @@
 - 💬 ¿Quién soy yo? **Soy una persona detallista y pragmatica  .**
 
 - 🤔 Algunos de mis hobbies: **Leer un buen libro, salir a correr,  Cocinar**
-
-- 📝 ¿Quieres contactarme? **Podes hacerlo a través de Linkedin https://www.linkedin.com/in/ignacio-dalla-rizza-b32b54251/ o vía email idallarizza@gmail.com**
-
-
-
 ---
 
 <h3 align="left">Contacta conmigo:</h3>
